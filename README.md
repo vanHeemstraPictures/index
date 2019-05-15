@@ -1,5 +1,5 @@
 index
-# Index
+# van Heemstra Pictures
 
 The organization of repositories, projects, and boards is as follows:
 
