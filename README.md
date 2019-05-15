@@ -20,6 +20,6 @@ These Projects can also be viewed and managed on a tablet or mobile phone, besid
 
 Other organizations are:
 
-- van Heemstra Designs [https://github.com/vanHeemstraDesigns]: specializing in design, such as Digital Drawing and Painting  
+- [van Heemstra Designs](https://github.com/vanHeemstraDesigns/index/): specializing in design, such as Digital Drawing and Painting  
 
-- van Heemstra Systems [https://github.com/vanHeemstraSystems/index/]: specializing in IT, such as DevOps 
+- [van Heemstra Systems](https://github.com/vanHeemstraSystems/index/): specializing in IT, such as DevOps 
