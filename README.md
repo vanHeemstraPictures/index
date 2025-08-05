@@ -7,7 +7,7 @@ The organization van Heemstra Pictures covers all matters Picture related.
 
 Look at Projects to find topics, e.g.:
 
-- [Digital Photography](https://github.com/vanheemstrapictures/digital-photography-headstart#workspaces/digital-photography-5cdc2a870b7efe3f16415002/board?repos=186850603)
+- [Digital Photography](https://github.com/vanheemstrapictures/digital-photography-management#workspaces/digital-photography-5cdc2a870b7efe3f16415002/board?repos=186850603)
 - [Digital Cinematography](https://github.com/vanHeemstraPictures/index#workspaces/digital-cinematography-5cdc26bbb8a0f81e7c284e21/board?repos=186766686)
 
 These Projects are enhanced using ZenHub (https://zenhub.io) to allow for Epics etc.
