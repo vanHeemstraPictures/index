@@ -3,12 +3,12 @@ index
 
 The organization of repositories, projects, and boards is as follows:
 
-The organization van Heemstra Pictures covers all matters Picture related.
+The organization van Heemstra Pictures covers all matters (Motion) Picture related.
 
 Look at Projects to find topics, e.g.:
 
-- [Digital Photography](https://github.com/vanheemstrapictures/digital-photography-management#workspaces/digital-photography-5cdc2a870b7efe3f16415002/board?repos=186850603)
-- [Digital Cinematography](https://github.com/vanHeemstraPictures/index#workspaces/digital-cinematography-5cdc26bbb8a0f81e7c284e21/board?repos=186766686)
+- [Digital Photography](https://github.com/vanheemstrapictures/digital-photography-management)
+- [Digital Cinematography](https://github.com/vanHeemstraPictures/digital-cinematography-management)
 
 These Projects are enhanced using ZenHub (https://zenhub.io) to allow for Epics etc.
 
